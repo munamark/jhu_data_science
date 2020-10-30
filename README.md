@@ -1,1 +1,1 @@
-# kickstart_my_chart
+# base folder for JHU data science assignments.
