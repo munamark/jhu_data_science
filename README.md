@@ -1,1 +1,1 @@
-# base folder for JHU data science assignments.
+# Base folder for JHU data science assignments.
